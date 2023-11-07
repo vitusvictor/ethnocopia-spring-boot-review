@@ -108,5 +108,3 @@ b. For clarity and debugging purposes, include endpoind for a particular operati
 @GetMapping("/get-customers"), @PostMapping("/add-customers").
 
 c. There is need to compose a response message for each operation. Possibly including a response code that suggests the status of the operation conducted.
-
-d. There appears not to be a **NewCustomerRequest** class in the project.
